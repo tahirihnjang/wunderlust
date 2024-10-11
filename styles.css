@@ -6,6 +6,8 @@
    License: none (public domain)
 */
 
+@import url('https://fonts.google.com/share?selection.family=Molle:ital@1%7CMontserrat');
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -50,9 +52,6 @@ table {
 	border-spacing: 0;
 }
 
-
-
-@import url('https://fonts.googleapis.com/css2?family=Molle:ital@1&family=Montserrat&display=swap');
 
 * {
     box-sizing: border-box;
@@ -215,7 +214,6 @@ label[for="toggle"] {
 header {
     display: flex;
     flex-direction: column;
-    align-items: left;
     position: relative;
     z-index: 2;
     width: 100%;
